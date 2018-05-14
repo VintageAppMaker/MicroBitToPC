@@ -4,7 +4,7 @@
 
 
 
-MicroBit 소스
+MicroBit 소스(javascript에디터. 실제 프로젝트 확장자명은 컴파일된 후, hex임)
 
 ~~~javascript
 let 보물Y좌표 = 0
